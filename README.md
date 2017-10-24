@@ -6,4 +6,4 @@ This project is build with CI and hybridauth. This project was done by Bishwajit
 
 Live version of this application is loacted here http://demositestore.com/ehealth/
 
-Please change API if you use it in your own project.
+Please change API keys if you use it in your own project.
