@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 160 40" style="enable-background:new 0 0 160 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#27AAE1;}
+	.st1{fill:#00AEEF;}
+	.st2{opacity:0.42;fill:url(#SVGID_1_);}
+	.st3{opacity:0.42;fill:url(#SVGID_2_);}
+	.st4{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M27.8,16.4v10.4c-0.2,0-0.3,0-0.5,0c-0.3,0-0.5,0-0.8,0c-0.2,0-0.3,0-0.5,0H12.7c-1-0.1-2-0.4-2.9-0.8
+			c-4.1-1.6-7.3-5.3-8.1-9.7H27.8z"/>
+		<path class="st1" d="M26.5,0.5c-5.5,0-10.2,3.4-12.2,8.1c-0.6,1.5-1,3.2-1,5v25.8c3.3-0.7,6.1-2.5,8-5.1c0.6-0.8,1.1-1.7,1.5-2.7
+			c0.5-1.1,0.8-2.3,1-3.6v-1.3l2,0c0.1,0,0.1,0,0.2,0c0.2,0,0.3,0,0.5,0c0.3,0,0.5,0,0.8,0c0.2,0,0.3,0,0.5,0
+			c6.7-0.6,11.9-6.3,11.9-13.1C39.7,6.4,33.8,0.5,26.5,0.5z M26.5,16.4L26.5,16.4l-2.7,0v-2.7c0-1.5,1.2-2.7,2.7-2.7
+			c1.5,0,2.7,1.2,2.7,2.7S28,16.4,26.5,16.4z"/>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="23.7713" y1="21.6632" x2="27.2767" y2="21.6632">
+			<stop  offset="0" style="stop-color:#4167B0"/>
+			<stop  offset="1" style="stop-color:#488FCD;stop-opacity:0.2"/>
+		</linearGradient>
+		<path class="st2" d="M27.3,16.4v10.4c-0.3,0-0.5,0-0.8,0c-0.2,0-0.3,0-0.5,0c-0.1,0-0.1,0-0.2,0l-2,0V16.4l2.7,0L27.3,16.4z"/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="9.7472" y1="21.6493" x2="13.2526" y2="21.6493">
+			<stop  offset="0" style="stop-color:#488FCD;stop-opacity:0.2"/>
+			<stop  offset="1" style="stop-color:#4167B0"/>
+		</linearGradient>
+		<path class="st3" d="M13.3,16.4v10.5h-0.6c-1-0.1-2-0.4-2.9-0.8v-9.7L13.3,16.4z"/>
+	</g>
+	<g>
+		<path class="st4" d="M63.8,29.1h-4.8v-8.6h-8.8v8.6h-4.8V8h4.8v8.4h8.8V8h4.8V29.1z"/>
+		<path class="st4" d="M81.4,29.1H68.7V8h12.2v3.9h-7.4v4.7h6.9v3.9h-6.9v4.8h7.9V29.1z"/>
+		<path class="st4" d="M103.3,29.1h-5.2l-1.5-4.7h-7.5l-1.5,4.7h-5.2L90.2,8h5.6L103.3,29.1z M95.5,20.8l-2.3-7.1
+			c-0.2-0.5-0.3-1.2-0.4-1.9h-0.1c0,0.6-0.2,1.2-0.4,1.8l-2.3,7.2H95.5z"/>
+		<path class="st4" d="M118.6,29.1H106V8h4.8v17.3h7.8V29.1z"/>
+		<path class="st4" d="M136.2,11.8h-6v17.3h-4.8V11.8h-6V8h16.8V11.8z"/>
+		<path class="st4" d="M157.4,29.1h-4.8v-8.6h-8.8v8.6h-4.8V8h4.8v8.4h8.8V8h4.8V29.1z"/>
+	</g>
+</g>
+</svg>

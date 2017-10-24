@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:re="http://purl.org/atompub/rank/1.0">
+    <title type="text">How to parse RSS with Code Igniter? - Stack Overflow</title>
+    <link rel="self" href="https://stackoverflow.com/feeds/question/9174039" type="application/atom+xml" />
+    <link rel="alternate" href="https://stackoverflow.com/q/9174039" type="text/html" />
+    <subtitle>most recent 30 from stackoverflow.com</subtitle>
+    <updated>2017-10-21T14:23:28Z</updated>
+    <id>https://stackoverflow.com/feeds/question/9174039</id>
+    <creativeCommons:license>http://www.creativecommons.org/licenses/by-sa/3.0/rdf</creativeCommons:license> 
+    <entry>
+        <id>https://stackoverflow.com/q/9174039</id>
+        <re:rank scheme="https://stackoverflow.com">1</re:rank>
+        <title type="text">How to parse RSS with Code Igniter?</title>
+            <category scheme="https://stackoverflow.com/tags" term="parsing" />
+            <category scheme="https://stackoverflow.com/tags" term="codeigniter" />
+            <category scheme="https://stackoverflow.com/tags" term="rss" />
+        <author>
+            <name>Jo&#227;o</name>
+            <uri>https://stackoverflow.com/users/618063</uri>
+        </author>
+        <link rel="alternate" href="https://stackoverflow.com/questions/9174039/how-to-parse-rss-with-code-igniter" />
+        <published>2012-02-07T09:47:25Z</published>
+        <updated>2017-04-01T07:50:25Z</updated>
+        <summary type="html">
+            
+
+            &lt;p&gt;I want to parse &lt;a href=&quot;http://bitly.com/u/joaoramos.rss&quot; rel=&quot;nofollow&quot; title=&quot;bit.ly bookmarks&quot;&gt;this RSS&lt;/a&gt; (from a bit.ly user stream) to grab all bit.ly links and related data, and store all new items into a database. What are examples of easy ways to parse RSS (e.g. simple helpers with small footprint)? I&#39;m a Code Igniter rookie, so please be gentle :)&lt;/p&gt;
+
+        </summary>
+    </entry>
+    <entry>
+        <id>https://stackoverflow.com/questions/9174039/-/9174291#9174291</id>
+        <re:rank scheme="https://stackoverflow.com">0</re:rank>
+        <title type="text">Answer by Vamsi for How to parse RSS with Code Igniter?</title>
+        <author>
+            <name>Vamsi</name>
+            <uri>https://stackoverflow.com/users/411023</uri>
+        </author>
+        <link rel="alternate" href="https://stackoverflow.com/questions/9174039/how-to-parse-rss-with-code-igniter/9174291#9174291" />
+        <published>2012-02-07T10:05:46Z</published>
+        <updated>2012-02-07T10:05:46Z</updated>
+        <summary type="html">&lt;p&gt;Check out &lt;a href=&quot;http://simplepie.org/&quot; rel=&quot;nofollow&quot;&gt;SimplePie&lt;/a&gt;. Integrating this in CI , shouldn&#39;t be hard .&lt;/p&gt;
+
+&lt;p&gt;Or If you want one with less foot print, check &lt;a href=&quot;http://codeigniter.com/forums/viewthread/160394/&quot; rel=&quot;nofollow&quot;&gt;this&lt;/a&gt; Thread on CI forums , This is very light and does the job.&lt;/p&gt;
+</summary>
+    </entry>    <entry>
+        <id>https://stackoverflow.com/questions/9174039/-/9184739#9184739</id>
+        <re:rank scheme="https://stackoverflow.com">1</re:rank>
+        <title type="text">Answer by Jo&#227;o for How to parse RSS with Code Igniter?</title>
+        <author>
+            <name>Jo&#227;o</name>
+            <uri>https://stackoverflow.com/users/618063</uri>
+        </author>
+        <link rel="alternate" href="https://stackoverflow.com/questions/9174039/how-to-parse-rss-with-code-igniter/9184739#9184739" />
+        <published>2012-02-07T22:09:04Z</published>
+        <updated>2012-02-07T22:09:04Z</updated>
+        <summary type="html">&lt;p&gt;I ended up by simply using &lt;code&gt;json_decode(file_get_contents(&#39;http://bitly.com/u/joaoramos.json&#39;));&lt;/code&gt; and then dug into the object to get what I needed.&lt;/p&gt;
+</summary>
+    </entry></feed>
